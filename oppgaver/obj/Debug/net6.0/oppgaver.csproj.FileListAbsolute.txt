@@ -1,0 +1,15 @@
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\oppgaver.csproj.AssemblyReference.cache
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\oppgaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\oppgaver.AssemblyInfoInputs.cache
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\oppgaver.AssemblyInfo.cs
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\oppgaver.csproj.CoreCompileInputs.cache
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\bin\Debug\net6.0\oppgaver.exe
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\bin\Debug\net6.0\oppgaver.deps.json
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\bin\Debug\net6.0\oppgaver.runtimeconfig.json
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\bin\Debug\net6.0\oppgaver.dll
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\bin\Debug\net6.0\oppgaver.pdb
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\oppgaver.dll
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\refint\oppgaver.dll
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\oppgaver.pdb
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\oppgaver.genruntimeconfig.cache
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\ref\oppgaver.dll

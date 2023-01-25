@@ -1,0 +1,15 @@
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\MySuperBank.csproj.AssemblyReference.cache
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\MySuperBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\MySuperBank.AssemblyInfoInputs.cache
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\MySuperBank.AssemblyInfo.cs
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\MySuperBank.csproj.CoreCompileInputs.cache
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\bin\Debug\net6.0\MySuperBank.exe
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\bin\Debug\net6.0\MySuperBank.deps.json
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\bin\Debug\net6.0\MySuperBank.runtimeconfig.json
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\bin\Debug\net6.0\MySuperBank.dll
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\bin\Debug\net6.0\MySuperBank.pdb
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\MySuperBank.dll
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\refint\MySuperBank.dll
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\MySuperBank.pdb
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\MySuperBank.genruntimeconfig.cache
+C:\Users\Bruker\source\repos\oppgaver\oppgaver\obj\Debug\net6.0\ref\MySuperBank.dll
